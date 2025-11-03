@@ -1,0 +1,2 @@
+# ruby
+repository para estudo
